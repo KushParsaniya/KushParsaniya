@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Bank Management Project](https://github.com/KushParsaniya/bank-management-backend.git)
 
-- 💬 Ask me about **Spring-Boot**
+- 💬 Ask me about **Java , Spring-Boot**
 
 - 📫 How to reach me **kushparsaniya94@gmail.com**
 
