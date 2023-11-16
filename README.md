@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushparsaniya&label=Profile%20views&color=0e75b6&style=flat" alt="kushparsaniya" /> </p>
 
-- 🌱 I’m currently learning Spring Boot Micro Service
+- 🌱 I’m currently learning Spring Boot microservices
 
 - 🔭 I’m currently working on [Bank Management] Project(https://github.com/KushParsaniya/bank-management-backend.git)
 
