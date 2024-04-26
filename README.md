@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushparsaniya&label=Profile%20views&color=0e75b6&style=flat" alt="kushparsaniya" /> </p>
 
-- 🌱 I’m currently learning **Spring-Boot MicroService**
+- 🌱 I’m currently learning **golang**
 
-- 💬 Ask me about **Spring-Boot,Java**
+- 💬 Ask me about **Springn Boot,Spring Security,Java**
 
 - 📫 How to reach me **kushparsaniya94@gmail.com**
 
