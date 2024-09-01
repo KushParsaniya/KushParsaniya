@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kush Parsaniya</h1>
 <h3 align="center">A Passionate Backend Developer from India</h3>
 
-- 🌱 I’m currently learning **Apache Flink**, and **Golang**.
+- 🌱 I’m currently learning **Spring AI**, and **Golang**.
 - 💬 Ask me about **Spring Security, Spring Boot, and Java**.
 - 📫 Reach me at **kushparsaniya94@gmail.com**.
 
